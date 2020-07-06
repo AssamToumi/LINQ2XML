@@ -1,0 +1,8 @@
+B:\Sources\LINQ2XML\bin\Debug\database\Products.xml
+B:\Sources\LINQ2XML\bin\Debug\LINQ2XML.exe.config
+B:\Sources\LINQ2XML\bin\Debug\LINQ2XML.exe
+B:\Sources\LINQ2XML\bin\Debug\LINQ2XML.pdb
+B:\Sources\LINQ2XML\obj\Debug\LINQ2XML.csprojAssemblyReference.cache
+B:\Sources\LINQ2XML\obj\Debug\LINQ2XML.csproj.CoreCompileInputs.cache
+B:\Sources\LINQ2XML\obj\Debug\LINQ2XML.exe
+B:\Sources\LINQ2XML\obj\Debug\LINQ2XML.pdb
